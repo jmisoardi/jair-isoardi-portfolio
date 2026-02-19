@@ -34,7 +34,7 @@ export const galleryItems: GalleryItem[] = [
     location: "Estudio, Santa Rosa",
     description:
       "Retrato íntimo con luz natural lateral. Capturando la esencia y personalidad del modelo en un ambiente controlado.",
-    imageUrl: "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=600&h=750&fit=crop",
+    imageUrl: "/portfolio/retratos/jeni.jpg",/* "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=600&h=750&fit=crop" */
     aspect: "portrait",
   },
   {
@@ -44,7 +44,7 @@ export const galleryItems: GalleryItem[] = [
     location: "Parque Don Tomas, Santa Rosa",
     description:
       "Sesión en exteriores con luz dorada de atardecer. El entorno natural complementa la calidez del retrato.",
-    imageUrl: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=600&h=600&fit=crop",
+    imageUrl: "/portfolio/retratos/Pauli_MG_1823.jpg",/* https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=600&h=600&fit=crop */
     aspect: "square",
   },
   {

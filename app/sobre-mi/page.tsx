@@ -54,7 +54,7 @@ export default function SobreMiPage() {
             <div className="lg:w-2/5">
               <div className="aspect-[4/5] overflow-hidden rounded-2xl bg-secondary shadow-lg">
                 <img
-                  src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&h=750&fit=crop"
+                  src="/sobre-mi/Jair-4k-Editada.jpg"
                   alt="Jair Isoardi - Fotógrafo profesional"
                   className="h-full w-full object-cover"
                 />
