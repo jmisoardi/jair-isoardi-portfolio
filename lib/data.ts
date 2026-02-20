@@ -187,7 +187,7 @@ export const galleryItems: GalleryItem[] = [
     location: "Centro, Santa Rosa",
     description:
       "Fotografía conceptual en entorno urbano. Contrastes y texturas que cuentan historias.",
-    imageUrl: "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=600&h=600&fit=crop",
+    imageUrl: "portfolio/artisticos/Flor-Artista-1929.jpg",/* "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=600&h=600&fit=crop" */
     aspect: "square",
   },
 ]
