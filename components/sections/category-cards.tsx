@@ -9,7 +9,7 @@ const categoryData = [
     description:
       "Sesiones que capturan tu esencia con luz natural y profesional.",
     image:
-      "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=500&h=625&fit=crop",
+      "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=500&h=625&fit=cro",/* "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=500&h=625&fit=crop" */
   },
   {
     title: "Pre 15",

@@ -34,7 +34,7 @@ export const galleryItems: GalleryItem[] = [
     location: "Estudio, Santa Rosa",
     description:
       "Retrato íntimo con luz natural lateral. Capturando la esencia y personalidad del modelo en un ambiente controlado.",
-    imageUrl: "/portfolio/retratos/jeni.jpg",/* "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=600&h=750&fit=crop" */
+    imageUrl: "/portfolio/retratos/Sofia-688KB-MG_1434.jpg",/* "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=600&h=750&fit=crop" */
     aspect: "portrait",
   },
   {
@@ -187,7 +187,7 @@ export const galleryItems: GalleryItem[] = [
     location: "Centro, Santa Rosa",
     description:
       "Fotografía conceptual en entorno urbano. Contrastes y texturas que cuentan historias.",
-    imageUrl: "portfolio/artisticos/Flor-Artista-1929.jpg",/* "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=600&h=600&fit=crop" */
+    imageUrl: "portfolio/artisticos/Flor-Artista-396KB-MG_5613.jpg",/* "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=600&h=600&fit=crop" */
     aspect: "square",
   },
 ]
