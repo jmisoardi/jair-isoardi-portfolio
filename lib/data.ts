@@ -44,7 +44,7 @@ export const galleryItems: GalleryItem[] = [
     location: "Parque Don Tomas, Santa Rosa",
     description:
       "Sesión en exteriores con luz dorada de atardecer. El entorno natural complementa la calidez del retrato.",
-    imageUrl: "/portfolio/retratos/Pauli_MG_1823.jpg",/* https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=600&h=600&fit=crop */
+    imageUrl: "/portfolio/retratos/Jeni-1.02MB.jpg",/* https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=600&h=600&fit=crop */
     aspect: "square",
   },
   {
@@ -54,7 +54,7 @@ export const galleryItems: GalleryItem[] = [
     location: "Estudio, Santa Rosa",
     description:
       "Retrato expresivo con iluminación dramática. Cada gesto cuenta una historia única.",
-    imageUrl: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=600&h=750&fit=crop",
+    imageUrl: "/portfolio/retratos/Sofia-original-773KB-MG_1432.jpg",
     aspect: "portrait",
   },
   {
@@ -174,10 +174,10 @@ export const galleryItems: GalleryItem[] = [
     id: 15,
     title: "Movimiento etéreo",
     category: "Artísticos",
-    location: "Exterior, General Pico",
+    location: "Interior, Santa Rosa",
     description:
       "Capturando el movimiento con velocidades lentas de obturación. Cada imagen es única.",
-    imageUrl: "https://images.unsplash.com/photo-1502823403499-6ccfcf4fb453?w=600&h=750&fit=crop",
+    imageUrl: "/portfolio/artisticos/Priscila-Art-3-611KB-MG_6154.jpg",
     aspect: "portrait",
   },
   {
